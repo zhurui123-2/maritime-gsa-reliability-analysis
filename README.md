@@ -1,6 +1,6 @@
 # Maritime GSA Reliability Analysis
 
-Reproducibility code and companion-interface documentation for a Reliability Engineering & System Safety (RESS) study on reliable multimodal federated learning in maritime safety systems.
+Research code and companion-interface documentation for studying model-update staleness and reliability in collaborative vessel emissions assessment.
 
 The study investigates how model-update staleness degrades reliability under dynamic maritime heterogeneity and evaluates two complementary controls: source-aware staleness weighting and Gradient-Space Alignment (GSA). This repository contains the curated analysis code used for the reported experiments. Preliminary pilots, parameter searches, intermediate merge utilities, superseded implementations, and manuscript-generation helpers are excluded.
 
